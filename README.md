@@ -19,6 +19,9 @@ login page:
 ![image alt](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/c2c87f64f0937b16a2ab94267857f0dcf7c9a8e5/loginpage01.png)
 
 cart:
+![image alt](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/a7f34bd219f5b540b9271074bf0b4fde2b82f65e/page1.png)
+
+
 
 
 
