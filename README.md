@@ -19,5 +19,6 @@ login page:
 ![image alt](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/c2c87f64f0937b16a2ab94267857f0dcf7c9a8e5/loginpage01.png)
 
 vedio:
+[Watch the video](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/d01f2cfae62be6f71f3fe9868a3005ec8cae01a6/website_preview%20(1).mp4)
 
 
