@@ -23,6 +23,8 @@ cart:
 
 ![image alt](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/140492d6b1d92191752c0eaa51f0286406562bdf/page01.png)
 
+![image alt](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/1150692735e6b30a8290a46b080ede100fd15b1a/page001.png)
+
 
 
 
