@@ -14,3 +14,6 @@ Bootstrap: For creating a responsive and attractive design that adapts to differ
 
 This project provides an online platform that caters to the unique needs of students, making it easier to buy essential products for their academic life, 
 all while ensuring an intuitive and seamless shopping experience.
+
+login page:
+
