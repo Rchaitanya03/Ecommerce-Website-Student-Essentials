@@ -1,4 +1,4 @@
-Ecommerce website(For Student Essentials)
+#Ecommerce website(For Student Essentials)
 
 This project is an E-commerce platform designed specifically for students, offering a wide range of essential products needed by students for their daily academic and lifestyle needs. 
 Built using PHP, the website provides a user-friendly interface where students can browse, purchase, and manage their orders easily.
@@ -16,4 +16,5 @@ This project provides an online platform that caters to the unique needs of stud
 all while ensuring an intuitive and seamless shopping experience.
 
 login page:
+![image alt](https://github.com/Rchaitanya03/Ecommerce-Website-Student-Essentials/blob/c2c87f64f0937b16a2ab94267857f0dcf7c9a8e5/loginpage01.png)
 
